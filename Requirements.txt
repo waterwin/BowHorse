@@ -1,0 +1,40 @@
+Elektronische tijdregistratie van een wedstrijd track
+ 
+ 
+Functionele specificatie
+ 
+Digitale registratie van de verstreken tijd tussen een start- en finishmoment
+Realtime zichtbaar op een (lcd) scherm
+ 
+Switches/zendeenheid:
+Nauwkeurige start en finishregistratie over een wedstrijdbaan met een breedte van maximaal 4 meter
+Moet kunnen werken onder de meest voorkomende weersomstandigheden, warmte/35 graden, kou/ 0 graden, zon en regen
+Robuuste/stootvaste uitvoering
+Moet kunnen werken onder stoffige omstandigheden
+Moet vlot te (ver)plaatsen zijn
+Draadloze communicatie van signaal
+Moet door ëiedereenë in werking gesteld kunnen worden
+Aan/uit knop
+Start en finish switches moeten gemonteerd kunnen worden op een driepoot middels een standaard aansluiting
+Reset mogelijkheid
+Led signaal bij schakelen switch, ter controle van juiste werking
+ 
+Ontvangst en verwerkingseenheid:
+Aan/uitknop
+Moet door ëiedereení te bedienen zijn.
+Moet signalen van twee switches kunnen ontvangen middels draadloze communicatie
+Controleled per switch voor correct werkende draadloze verbinding
+…Èn startmoment, ÈÈn finishmoment
+Moet deze signalen kunnen verwerken tot een tijd
+Moet deze tijd kunnen tonen op een scherm
+Doorlopende tijd tijdens race zichtbaar op scherm
+Moet deze tijd kunnen versturen naar een laptop
+Stof en spatwaterdichte behuizing
+De diverse componenten (excl.laptop) moeten worden verwerkt in ÈÈn compacte unit.
+EÈn beep en led signaal bij passeren switch
+Bij activatie startswitch, maar bij uitblijven finishswitch moet de doorlopende tijd gestopt en gereset kunnen worden
+ 
+ 
+Optionele uitbreiding (zoals gezien op het EK boogschieten te paard):
+Drukknop met startsignaal en activatie timer van 20 sec.
+Binnen 20 sec moet de startswitch zijn gepasseerd, anders eindsignaal en deactivatie tijdregistratie.
