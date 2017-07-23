@@ -4,3 +4,7 @@ arduino wireless communication between arduinos
 https://www.google.fr/search?q=arduino+wireless+communication+between+arduinos&sa=X&ved=0ahUKEwjE6_KXnp3VAhUOahoKHZUECTQQ1QIIdigC&biw=1280&bih=670
 
 http://www.arduino.org/downloads
+
+interesting example from Arduino Projecthub
+https://create.arduino.cc/projecthub/lagsilva/stopwatch-and-lap-time-counter-2f6184?ref=search&ref_id=stopwatch&offset=0
+could replace the 3 buttons with 1 button for 3 functions, replace the lap time with the previous run time, replace the 8 led display by another output option
