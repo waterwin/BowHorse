@@ -8,3 +8,10 @@ http://www.arduino.org/downloads
 interesting example from Arduino Projecthub
 https://create.arduino.cc/projecthub/lagsilva/stopwatch-and-lap-time-counter-2f6184?ref=search&ref_id=stopwatch&offset=0
 could replace the 3 buttons with 1 button for 3 functions, replace the lap time with the previous run time, replace the 8 led display by another output option
+
+8 digit 7 led display via amazon.fr
+https://www.amazon.fr/Wingoneer-Max7219-EWG-8-chiffres-Affichage-num%C3%A9rique/dp/B06XHHFK26/ref=sr_1_fkmr1_1?ie=UTF8&qid=1500886467&sr=8-1-fkmr1&keywords=8+digit+7+element+display
+€ 6,99
+
+Operators for expressions in C and C++
+https://en.wikipedia.org/wiki/Operators_in_C_and_C%2B%2B
