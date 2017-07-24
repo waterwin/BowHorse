@@ -18,3 +18,5 @@ https://en.wikipedia.org/wiki/Operators_in_C_and_C%2B%2B
 
 Virtual Wire library
 http://www.airspayce.com/mikem/arduino/VirtualWire/
+but superseded by http://www.airspayce.com/mikem/arduino/RadioHead/
+
