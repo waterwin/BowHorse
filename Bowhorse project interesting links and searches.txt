@@ -20,3 +20,5 @@ Virtual Wire library
 http://www.airspayce.com/mikem/arduino/VirtualWire/
 but superseded by http://www.airspayce.com/mikem/arduino/RadioHead/
 
+goeie google zoekactie voor RF
+https://www.google.fr/search?q=introduction+in+arduino+rf&rlz=1C1AVNG_enFR685FR685&oq=introduction+in+arduino+rf&aqs=chrome..69i57.7199j0j7&sourceid=chrome&ie=UTF-8
